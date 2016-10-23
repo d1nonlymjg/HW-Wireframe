@@ -19,56 +19,72 @@ body {
 }
 
 header {
-	height: 40px;
+	padding-top: 60px;
+	height: 80px;
 	width: 960px;
 	background-color: #ebebeb;
 	margin-bottom: 10px;
 }
 
 nav {
-	height: 40px;
+	padding-top: 60px;
+	height: 80px;
 	width: 960px;
 	background-color: #ebebeb;
 	margin-bottom: 10px;
 }
 
 section {
-	height: 120px;
+	padding-top: 60px;
+	height: 200px;
 	width: 495px;
 	background-color: #ebebeb;
 	float: left;
 }
 
 article {
-	height: ;
-	width: 460px;
+	padding-top: 60px;
+	content: center;
+	text-align: center;
+	font-size: 18px;
+	color: #ebebeb;
+	width: 90%;
+	height: 140px;
 	background-color: #777;
-	float: left;
+	margin: 0 auto;
 }
 
 p {
-	height: 70px;
-	width: 495px;
+	content: center;
+	text-align: center;
+	font-size: 18px;
+	height: 10px;
+	width: 80%;
 	background-color: #ebebeb;
-	float: left;
+	margin: 0 auto;
 }
 
 h1 {
-	height: 70px;
-	width: 495px;
+	content: center;
+	text-align: center;
+	font-size: 18px;
+	height: 10px;
+	width: 80%;
 	background-color: #ebebeb;
-	float: left; 
+	margin: 0 auto 
 }
 
 aside {
-	height: 120px;
+	padding-top: 60px;
+	height: 200px;
 	width: 440px;
 	background-color: #ebebeb;
 	float: right;
 }
 
 footer {
-	height: 40px;
+	padding-top: 60px;
+	height: 80px;
 	width: 960px;
 	background-color: #ebebeb;
 	margin-top: 20px;
