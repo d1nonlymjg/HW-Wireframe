@@ -1,0 +1,69 @@
+body {
+	content: center;
+	text-align: center;
+	font-size: 18px;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777;
+	width: 960px;
+	background-color: #777;
+	margin: 0;
+}
+
+header {
+	height: 40px;
+	width: 960px;
+	background-color: #ebebeb;
+}
+
+nav {
+	height: 40px;
+	width: 960px;
+	background-color: #ebebeb;
+}
+
+section {
+	height: 120px;
+	width: 495px;
+	background-color: #ebebeb;
+	float: left;
+}
+
+article {
+	height: ;
+	width: 495px;
+	background-color: #777;
+	float: left;
+}
+
+p {
+	height: 70px;
+	width: 495px;
+	background-color: #ebebeb;
+	float: left;
+}
+
+h1 {
+	height: 70px;
+	width: 495px;
+	background-color: #ebebeb;
+	float: left; 
+}
+
+aside {
+	height: 120px;
+	width: 495px;
+	background-color: #ebebeb;
+	float: left;
+}
+
+footer {
+	height: 40px;
+	width: 960px;
+	background-color: #ebebeb;
+	clear: both;
+}
+
+.clear {
+	clear: both;
+	margin: auto;
+}
